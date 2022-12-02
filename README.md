@@ -50,7 +50,7 @@ This is a gym website made with **html**, **css** and **javascript**, fully **re
 
 ## 📑 License
 
-This project is under the MIT license. See the file [LICENSE](https://github.com/cutekitten001/landing_page_balle_bot/blob/main/LICENSE) for more details.
+This project is under the MIT license. See the file [LICENSE](https://github.com/cutekitten001/fitlife/blob/main/LICENSE) for more details.
 
 <br>
 
